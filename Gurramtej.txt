@@ -2,3 +2,6 @@ Name: Gurram Teja
 Branch: CSE
 Hobies: coding, watching tv
 
+Name: Gurram Tej
+Branch: ECE
+Hobies: watching tv
